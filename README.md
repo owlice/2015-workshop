@@ -38,11 +38,6 @@ Please note, this is an invite-only event. Current participants:
 +| Alberto Accomazzi | ADS | :+1: |||
 -| Alice Allen | ASCL | :+1: ||
 +| Alice Allen | ASCL | :+1: | Sunday 10:15 AM | Tuesday, 10:29 PM |
-	
-@arfon
-arfon added a note 2 hours ago
-
-Ouch. :tired_face:
 -| Adam Becker | Freelance | :+1: ||
 +| Adam Becker | Freelance | :+1: |||
 -| Kyle Barbary | Berkeley | :+1: ||
